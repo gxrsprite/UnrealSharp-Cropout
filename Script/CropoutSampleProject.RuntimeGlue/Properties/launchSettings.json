@@ -1,0 +1,14 @@
+{
+  "profiles": {
+    "Development": {
+      "commandName": "Executable",
+      "executablePath": "D:\\Program Files\\UE_5.8\\Engine\\Binaries\\Win64\\UnrealEditor.exe",
+      "commandLineArgs": "\"I:\\UEProjects\\UnrealSharp-Cropout 5.8\\CropoutSampleProject.uproject\""
+    },
+    "Debug": {
+      "commandName": "Executable",
+      "executablePath": "D:\\Program Files\\UE_5.8\\Engine\\Binaries\\Win64\\UnrealEditor-Win64-DebugGame.exe",
+      "commandLineArgs": "\"I:\\UEProjects\\UnrealSharp-Cropout 5.8\\CropoutSampleProject.uproject\""
+    }
+  }
+}

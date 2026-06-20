@@ -2,8 +2,8 @@
   "profiles": {
     "UnrealSharp": {
       "commandName": "Executable",
-      "executablePath": "C:/Program Files/Epic Games/UE_5.5/Engine/Binaries\\Win64\\UnrealEditor.exe",
-      "commandLineArgs": "\"C:\\Users\\oscar\\Documents\\Unreal Projects\\CropoutSampleProject\\CropoutSampleProject.uproject\""
+      "executablePath": "D:/Program Files/UE_5.8/Engine/Binaries/Win64/UnrealEditor.exe",
+      "commandLineArgs": "\"I:\\UEProjects\\UnrealSharp-Cropout\\CropoutSampleProject.uproject\""
     }
   }
 }
