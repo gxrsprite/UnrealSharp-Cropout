@@ -8,6 +8,8 @@ public static class GameplayTags
 	public static readonly FGameplayTag EnhancedInput = new("EnhancedInput");
 	public static readonly FGameplayTag EnhancedInput_Modes = new("EnhancedInput.Modes");
 	public static readonly FGameplayTag EnhancedInput_Modes_Default = new("EnhancedInput.Modes.Default");
+	public static readonly FGameplayTag GameplayCue = new("GameplayCue");
+	public static readonly FGameplayTag GameplayCue_Test = new("GameplayCue.Test");
 	public static readonly FGameplayTag Input = new("Input");
 	public static readonly FGameplayTag Input_Gamepad = new("Input.Gamepad");
 	public static readonly FGameplayTag Input_MouseAndKeyboard = new("Input.MouseAndKeyboard");
@@ -33,4 +35,8 @@ public static class GameplayTags
 	public static readonly FGameplayTag Platform_Trait = new("Platform.Trait");
 	public static readonly FGameplayTag Platform_Trait_PlayInEditor = new("Platform.Trait.PlayInEditor");
 	public static readonly FGameplayTag SubBehaviour = new("SubBehaviour");
+	public static readonly FGameplayTag Tests = new("Tests");
+	public static readonly FGameplayTag Tests_GenericTag = new("Tests.GenericTag");
+	public static readonly FGameplayTag Tests_GenericTag_One = new("Tests.GenericTag.One");
+	public static readonly FGameplayTag Tests_GenericTag_Two = new("Tests.GenericTag.Two");
 }
